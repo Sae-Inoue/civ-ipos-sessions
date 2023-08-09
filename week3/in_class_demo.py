@@ -15,8 +15,9 @@ def make_2d(rows, cols, value=None):
     for _ in range(rows):
         elems = []
         for _ in range(cols):
-            elems.appe.nd(value)
+            elems.append(value)
         '''elems = [value for _ in range(cols)]    This code can replace from elems = []'''
         list_2d.append(elems)
     return list_2d    #List of lists of the required dimentions
 print(make_2d(2, 9, 3))
+
