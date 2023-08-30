@@ -6,10 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = '_build'
-copyright = '2023, --stop'
-author = '--stop'
-release = 'udo service sphinxsearch stop'
+project = 'projectweek7'
+copyright = '2023, Sae'
+author = 'Sae'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
